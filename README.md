@@ -1,2 +1,4 @@
 # fake-mc-skinserver
-Fake Minecraft skinserver for lan servers
+
+Attempt to simulate Mojang's servers to implement a skinserver for players without Mojang's account.
+
